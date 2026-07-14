@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="assets/starfield-banner.svg" width="100%"/>
   # K. Tendou (Kirisu)
   **Independent Researcher & Software Engineer**
 
