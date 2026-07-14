@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="assets/starfield-banner.svg" width="100%"/>
-
   # K. Tendou (Kirisu)
   **Independent Researcher & Software Engineer**
 
@@ -24,13 +22,15 @@ My active research focuses on **Visual Relationship Detection (VRD)** and scene 
   <img src="https://img.shields.io/badge/WSL-4D4D4D?style=flat-square&logo=linux&logoColor=B8C4E0" />
 </div>
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kirisu111503&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=B8C4E0&icon_color=F4C978&text_color=c9d1d9" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kirisu111503&theme=tokyonight&hide_border=true&background=0d1117&stroke=B8C4E0&ring=F4C978&fire=F4C978&currStreakLabel=B8C4E0&sideLabels=c9d1d9&sideNums=c9d1d9&dates=8b949e" height="165"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirisu111503&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=B8C4E0&text_color=c9d1d9" height="165"/>
 </div>
+
 <div align="center">
-  <sub>Total commits, current streak, and longest streak are shown in the cards above. Private-repo commit counts are only visible on your own view of the profile.</sub>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kirisu111503/kirisu111503/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kirisu111503/kirisu111503/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kirisu111503/kirisu111503/output/github-contribution-grid-snake-dark.svg">
+  </picture>
 </div>
