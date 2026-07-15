@@ -1,13 +1,11 @@
 name: Generate Snake Animation
-
 on:
   schedule:
-    - cron: "*/10 * * * *"  # runs every 10 minutes
+    - cron: "0 * * * *"  # runs once every hour, as a safety net
   workflow_dispatch: {}
   push:
     branches:
       - main
-
 jobs:
   generate:
     permissions:
@@ -21,7 +19,6 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
       - name: Push output to "output" branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
