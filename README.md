@@ -13,7 +13,7 @@
 ---
 
 ## 🔬 About Me
-I am an independent researcher and software engineer specializing in artificial intelligence, automation, and technological advancement. My work is driven by pure curiosity—researching complex systems, learning how they work, and developing software that genuinely interests me.
+I am a Junior Software Developer who is fascinated with creating effective and efficient systems that have practical applications in solving real-life problems. At the moment, I am busy creating an automated document management system which utilizes both AI and OCR (Optical Character Recognition). Through the use of these technologies, my system can extract text from documents, create intelligent summaries, and compile intelligent user reports (e.g. quarterly reports or achievement reports) using specific search criteria.
 
 ## 💻 Tech Stack & Tools
 <div align="center">
