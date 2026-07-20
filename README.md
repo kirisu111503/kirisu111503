@@ -5,7 +5,7 @@
   **Junior Computer Developer | Backend & Document Workflow Systems**
 
   <a href="https://orcid.org/0009-0008-1709-7810"><img src="https://img.shields.io/badge/ORCID-0009--0008--1709--7810-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
-  <a href="mailto:christian.isiderio101@gmail.com"><img src="https://img.shields.io/badge/Email-christian.isiderio101%40gmail.com-4281A4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:kirisu.tendou@gmail.com"><img src="https://img.shields.io/badge/Email-kirisu.tendou%40gmail.com-4281A4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.facebook.com/christ111503"><img src="https://img.shields.io/badge/Facebook-christ111503-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 
   <img src="https://readme-typing-svg.demolab.com?font=Inter&size=16&pause=1500&color=4281A4&center=true&vCenter=true&width=760&lines=Backend+Workflows+%7C+Database-backed+Systems+%7C+Document+Automation;Node.js+%7C+TypeScript+%7C+NestJS+%7C+PostgreSQL;OCR-assisted+Extraction+%7C+LLM-assisted+Processing;Building+practical+software+systems+that+are+clear+and+maintainable" alt="Typing SVG" />
