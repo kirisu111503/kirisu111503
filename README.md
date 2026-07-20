@@ -13,7 +13,7 @@
 ---
 
 ## 🔬 About Me
-I am a Junior Software Developer who is fascinated with creating effective and efficient systems that have practical applications in solving real-life problems. At the moment, I am busy creating an automated document management system which utilizes both AI and OCR (Optical Character Recognition). Through the use of these technologies, my system can extract text from documents, create intelligent summaries, and compile intelligent user reports (e.g. quarterly reports or achievement reports) using specific search criteria.
+I am a Junior Software Developer who is fascinated with creating effective and efficient systems that have practical applications in solving real-life problems. At the moment, I am currently creating an automated document management system which utilizes both AI and OCR (Optical Character Recognition). Through the use of these technologies, my system can extract text from documents, create intelligent summaries, and compile intelligent user reports (e.g. quarterly reports or achievement reports) using specific search criteria.
 
 ## 💻 Tech Stack & Tools
 <div align="center">
