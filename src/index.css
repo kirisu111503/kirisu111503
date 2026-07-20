@@ -1,0 +1,81 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    color-scheme: light;
+  }
+
+  html {
+    scroll-padding-top: 88px;
+  }
+
+  body {
+    background: #fffaf3;
+    color: #172631;
+  }
+
+  a,
+  button,
+  input,
+  textarea {
+    outline-color: #4281a4;
+  }
+}
+
+@layer components {
+  .section-shell {
+    @apply max-w-6xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+
+  .section-kicker {
+    @apply text-xs font-semibold uppercase tracking-[0.18em] text-palette-cerulean;
+  }
+
+  .section-title {
+    @apply text-2xl sm:text-3xl md:text-4xl font-semibold tracking-normal text-palette-ink;
+  }
+
+  .section-copy {
+    @apply text-sm sm:text-base leading-7 text-palette-muted;
+  }
+
+  .panel {
+    @apply rounded-lg border border-palette-line bg-white shadow-sm;
+  }
+
+  .soft-panel {
+    @apply rounded-lg border border-palette-line bg-palette-surface;
+  }
+
+  .btn-primary {
+    @apply inline-flex items-center justify-center gap-2 rounded-lg bg-palette-cerulean px-4 py-2.5 text-sm font-semibold text-white transition hover:bg-palette-ink focus-visible:ring-2 focus-visible:ring-palette-cerulean focus-visible:ring-offset-2;
+  }
+
+  .btn-secondary {
+    @apply inline-flex items-center justify-center gap-2 rounded-lg border border-palette-line bg-white px-4 py-2.5 text-sm font-semibold text-palette-ink transition hover:border-palette-cerulean hover:text-palette-cerulean focus-visible:ring-2 focus-visible:ring-palette-cerulean focus-visible:ring-offset-2;
+  }
+
+  .tag {
+    @apply inline-flex items-center rounded-md border border-palette-line bg-white px-2.5 py-1 text-xs font-medium text-palette-muted;
+  }
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f8efe4;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #9cafb7;
+  border: 3px solid #f8efe4;
+  border-radius: 999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #4281a4;
+}
