@@ -1,36 +1,98 @@
 <div align="center">
-  <img src="assets/starfield-banner.svg" width="100%"/>
+  <img src="assets/starfield-banner.svg" width="100%" alt="Starfield banner" />
 
-  # K. Tendou (Kirisu)
-  **Junior Developer**
+  # Christian A. Isiderio
+  **Junior Computer Developer | Backend & Document Workflow Systems**
 
   <a href="https://orcid.org/0009-0008-1709-7810"><img src="https://img.shields.io/badge/ORCID-0009--0008--1709--7810-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
-  <a href="mailto:kirisu.tendou@gmail.com"><img src="https://img.shields.io/badge/Email-kirisu.tendou%40gmail.com-1B1F3B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:christian.isiderio101@gmail.com"><img src="https://img.shields.io/badge/Email-christian.isiderio101%40gmail.com-4281A4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.facebook.com/christ111503"><img src="https://img.shields.io/badge/Facebook-christ111503-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=16&pause=1500&color=B8C4E0&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+%7C+Automation+%7C+Technology+Advancement;C%2C+Python%2C+JavaScript%2C+TypeScript;El+psy+Congroo!;Amadeus" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=16&pause=1500&color=4281A4&center=true&vCenter=true&width=760&lines=Backend+Workflows+%7C+Database-backed+Systems+%7C+Document+Automation;Node.js+%7C+TypeScript+%7C+NestJS+%7C+PostgreSQL;OCR-assisted+Extraction+%7C+LLM-assisted+Processing;Building+practical+software+systems+that+are+clear+and+maintainable" alt="Typing SVG" />
 </div>
 
 ---
 
-## 🔬 About Me
-I am a Junior Software Developer who is fascinated with creating effective and efficient systems that have practical applications in solving real-life problems. At the moment, I am currently creating an automated document management system which utilizes both AI and OCR (Optical Character Recognition). Through the use of these technologies, my system can extract text from documents, create intelligent summaries, and compile intelligent user reports (e.g. quarterly reports or achievement reports) using specific search criteria.
+## About Me
 
-## 💻 Tech Stack & Tools
+I am a junior computer developer focused on building practical software systems that are clear, maintainable, and useful. My work centers on backend workflows, database-backed applications, document-processing systems, and readable software architecture.
+
+I currently work on an anonymized software system for a **University Department**. Because some details may be confidential, I keep organization names, internal system names, source code, specifications, screenshots, and implementation details private. Publicly, I describe the work at a safe stack and responsibility level: TypeScript-based backend development, relational data workflows, OCR-assisted extraction, and LLM-assisted text interpretation.
+
+## Current Focus
+
+- Backend feature development and system workflows
+- Relational database modeling and data access patterns
+- Document-processing workflows with OCR-assisted extraction
+- LLM-assisted text interpretation and structured output
+- Maintainable software practices for real operational use
+
+## Experience
+
+### Junior Computer Developer
+**University Department**  
+`July 2026 - Present`
+
+- Developing backend features and system workflows using a TypeScript-based server framework.
+- Working with relational database access patterns for data modeling, persistence, and application data access.
+- Contributing to document-processing workflows involving OCR-assisted extraction and LLM-assisted text interpretation.
+- Keeping protected organization, system, source code, and implementation details anonymized.
+
+### Extension Services Intern
+**CSU - CCIS Extension Services**  
+`February 2026 - April 2026`
+
+- Assisted with documentation, file organization, and administrative support for extension services activities.
+- Gained limited exposure to backend development concepts and the technical stack used by the team.
+- Supported related program materials and basic technical coordination tasks during the internship period.
+
+## Selected Projects
+
+### StoryLine
+Personal story timeline and eBook planning app.
+
+- Built story planning workflows for timeline-based writing.
+- Worked with authentication-aware app flow, backend structure, and relational storage.
+- Stack: React, Vite, Tailwind CSS, Node.js, Express, PostgreSQL.
+
+### Ping: Connection Linked
+Sci-fi mystery visual novel with a terminal-style interface.
+
+- Built an interactive visual novel experience with custom UI flow.
+- Used Python and Pygame for rendering, interaction, audio, and game behavior.
+- Added state persistence for player progress and story flow.
+
+## Tech Stack & Tools
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,py,js,ts,linux,git,github,postgres,react,vue&theme=dark&perline=10" />
-  <br><br>
-  <img src="https://img.shields.io/badge/WSL-4D4D4D?style=flat-square&logo=linux&logoColor=B8C4E0" />
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,nestjs,express,postgres,prisma,react,tailwind,py,git,github,linux&theme=dark&perline=12" alt="Tech stack icons" />
 </div>
 
-## 📊 GitHub Analytics & Activity
+### Capability Areas
+
+- **Backend:** Node.js, TypeScript, NestJS, Express, REST APIs
+- **Data:** PostgreSQL, Prisma, SQL, schema design
+- **Frontend:** React, JavaScript, Tailwind CSS, Vite
+- **OCR and AI:** OCR workflows, LLM-assisted processing, Python
+- **Workflow:** Git, GitHub, Postman, basic deployment and testing practices
+
+## Education
+
+**Bachelor of Science in Computer Science**  
+Caraga State University - Main Campus  
+College of Computing and Information Sciences  
+`Graduated June 18, 2026`
+
+## GitHub Analytics & Activity
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kirisu111503&theme=tokyonight&hide_border=true&background=0d1117&stroke=B8C4E0&ring=F4C978&fire=F4C978&currStreakLabel=B8C4E0&sideLabels=c9d1d9&sideNums=c9d1d9&dates=8b949e" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kirisu111503&theme=tokyonight&hide_border=true&background=0d1117&stroke=9CAFB7&ring=EAD2AC&fire=FE938C&currStreakLabel=9CAFB7&sideLabels=c9d1d9&sideNums=c9d1d9&dates=8b949e" height="165" alt="GitHub streak stats" />
 </div>
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kirisu111503/kirisu111503/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kirisu111503/kirisu111503/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kirisu111503/kirisu111503/output/github-contribution-grid-snake-dark.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/kirisu111503/kirisu111503/output/github-contribution-grid-snake-dark.svg">
   </picture>
 </div>
