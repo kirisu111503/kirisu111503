@@ -15,6 +15,21 @@ export default function Navbar() {
   const [scrolled, setScrolled] = useState(false);
   const [activeSection, setActiveSection] = useState('hero');
 
+  const scrollToSection = (event, href) => {
+    event.preventDefault();
+    const sectionId = href.slice(1);
+    const target = document.getElementById(sectionId);
+
+    setMobileOpen(false);
+    if (!target) return;
+
+    window.history.pushState(null, '', href);
+    window.setTimeout(() => {
+      target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      setActiveSection(sectionId);
+    }, 120);
+  };
+
   useEffect(() => {
     const handleScroll = () => {
       setScrolled(window.scrollY > 12);
@@ -42,7 +57,12 @@ export default function Navbar() {
     >
       <div className="section-shell">
         <div className="flex h-[72px] items-center justify-between gap-4">
-          <a href="#hero" className="flex items-center gap-3" aria-label="Christian A. Isiderio home">
+          <a
+            href="#hero"
+            onClick={(event) => scrollToSection(event, '#hero')}
+            className="flex items-center gap-3"
+            aria-label="Christian A. Isiderio home"
+          >
             <img
               src="/pfp.jpg"
               alt="Christian A. Isiderio"
@@ -61,6 +81,7 @@ export default function Navbar() {
                 <a
                   key={link.href}
                   href={link.href}
+                  onClick={(event) => scrollToSection(event, link.href)}
                   className={`rounded-md px-3 py-2 text-sm font-medium transition ${
                     isActive ? 'bg-palette-blueSoft text-palette-cerulean' : 'text-palette-muted hover:bg-white hover:text-palette-ink'
                   }`}
@@ -71,7 +92,7 @@ export default function Navbar() {
             })}
           </nav>
 
-          <a href="#contact" className="btn-primary hidden md:inline-flex">
+          <a href="#contact" onClick={(event) => scrollToSection(event, '#contact')} className="btn-primary hidden md:inline-flex">
             Contact
             <ArrowUpRight className="h-4 w-4" />
           </a>
@@ -102,7 +123,7 @@ export default function Navbar() {
                   <a
                     key={link.href}
                     href={link.href}
-                    onClick={() => setMobileOpen(false)}
+                    onClick={(event) => scrollToSection(event, link.href)}
                     className="rounded-lg px-3 py-2.5 text-sm font-medium text-palette-muted hover:bg-white hover:text-palette-ink"
                   >
                     {link.name}
