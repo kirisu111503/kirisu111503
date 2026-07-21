@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { ArrowUpRight, Menu, X } from 'lucide-react';
 import { AnimatePresence, motion } from 'framer-motion';
+import ProfilePhoto from './ProfilePhoto';
 
 const NAV_LINKS = [
   { name: 'About', href: '#about' },
@@ -57,22 +58,21 @@ export default function Navbar() {
     >
       <div className="section-shell">
         <div className="flex h-[72px] items-center justify-between gap-4">
-          <a
-            href="#hero"
-            onClick={(event) => scrollToSection(event, '#hero')}
-            className="flex items-center gap-3"
-            aria-label="Christian A. Isiderio home"
-          >
-            <img
-              src="/pfp.jpg"
-              alt="Christian A. Isiderio"
-              className="h-10 w-10 rounded-lg border border-palette-line object-cover"
+          <div className="flex items-center gap-3">
+            <ProfilePhoto
+              buttonClassName="h-10 w-10 rounded-lg border border-palette-line"
+              imageClassName="h-full w-full object-cover"
             />
-            <div>
+            <a
+              href="#hero"
+              onClick={(event) => scrollToSection(event, '#hero')}
+              className="block text-left"
+              aria-label="Christian A. Isiderio home"
+            >
               <p className="text-sm font-semibold leading-tight text-palette-ink">Christian A. Isiderio</p>
               <p className="text-xs leading-tight text-palette-muted">Junior Software Developer</p>
-            </div>
-          </a>
+            </a>
+          </div>
 
           <nav className="hidden items-center gap-1 md:flex" aria-label="Primary navigation">
             {NAV_LINKS.map((link) => {

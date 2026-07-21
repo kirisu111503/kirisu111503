@@ -1,6 +1,7 @@
 import React from 'react';
 import { ArrowDown, ArrowUpRight, CheckCircle2, Github, Mail } from 'lucide-react';
 import { motion } from 'framer-motion';
+import ProfilePhoto from './ProfilePhoto';
 
 const FOCUS_AREAS = [
   'Backend workflows',
@@ -76,13 +77,10 @@ export default function Hero() {
 
           <div className="p-6 sm:p-7">
             <div className="flex flex-col gap-5 sm:flex-row sm:items-center">
-              <div className="overflow-hidden rounded-lg border border-palette-line">
-                <img
-                  src="/pfp.jpg"
-                  alt="Christian A. Isiderio"
-                  className="h-28 w-28 object-cover transition duration-500 group-hover:scale-105"
-                />
-              </div>
+              <ProfilePhoto
+                buttonClassName="rounded-lg border border-palette-line"
+                imageClassName="h-28 w-28 object-cover"
+              />
               <div>
                 <p className="font-mono text-xs uppercase tracking-[0.18em] text-palette-cerulean">Available for roles</p>
                 <h2 className="mt-2 text-2xl font-semibold text-palette-ink">Christian A. Isiderio</h2>
