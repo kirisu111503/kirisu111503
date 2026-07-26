@@ -92,5 +92,4 @@ College of Computing and Information Sciences
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGxhamZ0cHVxbWdjNnR1c2o0MzNmN3Q5MGdyajJzNDZ3aDFrZmZ5YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VBc6l3CqQonqo/giphy.gif" height="150" alt="GIF 1" />
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NGx6azhuNnk4ODFpeDE5ZHNwbHA3N2MyZDBoazRyNmJhYm82NmkxcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/903HBlNAtLGgq4qD8i/giphy.gif" height="150"  alt="GIF 2" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZnplY2lqaHB1djV6ZTdzZWk1ODZqeXExMjd2eW0yd3lmdGRuZTV6YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dIB3BWIRWZvXL9wnD7/giphy.gif" height="150" alt="GIF 3" />
 </div>
