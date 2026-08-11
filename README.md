@@ -1,7 +1,7 @@
 <div align="center">
   <img src="assets/starfield-banner.svg" width="100%" alt="Starfield banner" />
 
-  # Christian A. Isiderio
+  # Kirisu Tendou
   **Junior Computer Developer | Backend & Document Workflow Systems**
 
   <a href="https://orcid.org/0009-0008-1709-7810"><img src="https://img.shields.io/badge/ORCID-0009--0008--1709--7810-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
