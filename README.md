@@ -84,12 +84,6 @@ Caraga State University - Main Campus
 College of Computing and Information Sciences  
 `Graduated June 18, 2026`
 
-## GitHub Analytics & Activity
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kirisu111503&theme=tokyonight&hide_border=true&background=0d1117&stroke=9CAFB7&ring=EAD2AC&fire=FE938C&currStreakLabel=9CAFB7&sideLabels=c9d1d9&sideNums=c9d1d9&dates=8b949e" height="165" alt="GitHub streak stats" />
-</div>
-
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGxhamZ0cHVxbWdjNnR1c2o0MzNmN3Q5MGdyajJzNDZ3aDFrZmZ5YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VBc6l3CqQonqo/giphy.gif" height="150" alt="GIF 1" />
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NGx6azhuNnk4ODFpeDE5ZHNwbHA3N2MyZDBoazRyNmJhYm82NmkxcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/903HBlNAtLGgq4qD8i/giphy.gif" height="150"  alt="GIF 2" />
