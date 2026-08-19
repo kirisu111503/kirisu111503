@@ -5,7 +5,7 @@
   **Junior Computer Developer | Backend & Document Workflow Systems**
 
   <a href="https://orcid.org/0009-0008-1709-7810"><img src="https://img.shields.io/badge/ORCID-0009--0008--1709--7810-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
-  <a href="mailto:christian.isiderio101@gmail.com"><img src="https://img.shields.io/badge/Email-kirisu.tendou%40gmail.com-4281A4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:christian.isiderio101@gmail.com"><img src="https://img.shields.io/badge/Email-christian.isiderio101%40gmail.com-4281A4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.facebook.com/christ111503"><img src="https://img.shields.io/badge/Facebook-christ111503-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
   <a href="https://discord.gg/TvurqA4C"><img src="https://img.shields.io/badge/Discord-christ111503-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 
